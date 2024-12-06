@@ -6,7 +6,7 @@ import Image from 'next/image';
 export default function Home() {
   useEffect(() => {
     // Redirecting to the target URL
-    window.location.href = 'https://gold888rtp.top';
+    window.location.href = 'https://gold888rtp.pics';
   }, []); // Empty dependency array ensures this runs only on mount
 
   return (
